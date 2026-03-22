@@ -1,0 +1,1 @@
+copy all 26 lines from zpipe.lua and replace lines 91 to 125 in /mods/WaterPipes-IrrigationSystems/42/media/lua/server/BuildingObjects/zpipe.lua
